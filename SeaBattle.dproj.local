@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.340,=D:\курсач\Морской бой\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,D:\курсач\Морской бой\Unit1.pas=D:\Лабы\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,D:\курсач\Морской бой\Unit1.pas=D:\курсач\Морской бой\Settings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.591,=D:\курсач\Морской бой\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,=D:\курсач\Морской бой\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,=D:\курсач\Морской бой\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.814,D:\курсач\Морской бой\Unit3.dfm=D:\курсач\Морской бой\MainMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,=D:\курсач\Морской бой\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.814,D:\курсач\Морской бой\Unit3.pas=D:\курсач\Морской бой\MainMenu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,D:\курсач\Морской бой\InstructionUnit.pas=D:\курсач\Морской бой\UnitInstruction.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,D:\курсач\Морской бой\InstructionUnit.pas=D:\курсач\Морской бой\Instruction.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,D:\курсач\Морской бой\Game.pas=D:\курсач\Морской бой\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,D:\курсач\Морской бой\SettingsUnit.dfm=D:\курсач\Морской бой\UnitSettings.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,D:\курсач\Морской бой\DeveloperInfo.pas=D:\курсач\Морской бой\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,D:\курсач\Морской бой\Game.dfm=D:\курсач\Морской бой\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,D:\курсач\Морской бой\Instruction.pas=D:\курсач\Морской бой\Help.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.237,D:\курсач\Морской бой\SeaBattle.dproj=D:\Лабы\Delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.190,D:\курсач\Морской бой\SettingsUnit.dfm=D:\курсач\Морской бой\Settings.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,D:\курсач\Морской бой\MainMenuUnit.pas=D:\курсач\Морской бой\MainMenu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.528,D:\курсач\Морской бой\MainMenuUnit.pas=D:\курсач\Морской бой\UnitMainMenu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,D:\курсач\Морской бой\Instruction.dfm=D:\курсач\Морской бой\Help.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,D:\курсач\Морской бой\Unit1.dfm=D:\курсач\Морской бой\Settings.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,D:\курсач\Морской бой\Unit1.dfm=D:\Лабы\Delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,D:\курсач\Морской бой\DeveloperInfo.dfm=D:\курсач\Морской бой\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,D:\курсач\Морской бой\DeveloperInfoUnit.pas=D:\курсач\Морской бой\DeveloperInfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,D:\курсач\Морской бой\DeveloperInfoUnit.dfm=D:\курсач\Морской бой\DeveloperInfo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,D:\курсач\Морской бой\DeveloperInfoUnit.dfm=D:\курсач\Морской бой\UnitDeveloperInfo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,D:\курсач\Морской бой\GameUnit.pas=D:\курсач\Морской бой\Game.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,D:\курсач\Морской бой\MainMenuUnit.dfm=D:\курсач\Морской бой\MainMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,D:\курсач\Морской бой\FieldUnit.pas=D:\курсач\Морской бой\Field.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,D:\курсач\Морской бой\FieldUnit.pas=D:\курсач\Морской бой\UnitField.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.488,=D:\курсач\Морской бой\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,D:\курсач\Морской бой\Unit2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.481,D:\курсач\Морской бой\Unit2.pas=D:\курсач\Морской бой\Field.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.677,D:\курсач\Морской бой\GameUnit.pas=D:\курсач\Морской бой\UnitGame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.586,D:\курсач\Морской бой\Help.pas=D:\курсач\Морской бой\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,=D:\курсач\Морской бой\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.190,D:\курсач\Морской бой\SettingsUnit.pas=D:\курсач\Морской бой\Settings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,=D:\Лабы\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,D:\курсач\Морской бой\Bot.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,D:\курсач\Морской бой\DeveloperInfoUnit.pas=D:\курсач\Морской бой\UnitDeveloperInfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.586,D:\курсач\Морской бой\Help.dfm=D:\курсач\Морской бой\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,D:\курсач\Морской бой\SettingsUnit.pas=D:\курсач\Морской бой\UnitSettings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.677,D:\курсач\Морской бой\GameUnit.dfm=D:\курсач\Морской бой\UnitGame.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,D:\курсач\Морской бой\GameUnit.dfm=D:\курсач\Морской бой\Game.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.528,D:\курсач\Морской бой\MainMenuUnit.dfm=D:\курсач\Морской бой\UnitMainMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,D:\курсач\Морской бой\Bot.pas=D:\курсач\Морской бой\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,D:\курсач\Морской бой\InstructionUnit.dfm=D:\курсач\Морской бой\UnitInstruction.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,D:\курсач\Морской бой\InstructionUnit.dfm=D:\курсач\Морской бой\Instruction.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UnitMainMenu.pas"/>
+    <File Path="UnitMainMenu.dfm"/>
+    <File Path="UnitField.pas"/>
+    <File Path="UnitGame.pas"/>
+    <File Path="UnitGame.dfm"/>
+    <File Path="UnitSettings.pas"/>
+    <File Path="UnitSettings.dfm"/>
+    <File Path="UnitDeveloperInfo.pas"/>
+    <File Path="UnitDeveloperInfo.dfm"/>
+    <File Path="UnitInstruction.pas"/>
+    <File Path="UnitInstruction.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
